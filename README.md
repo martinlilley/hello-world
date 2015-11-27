@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+just another repo
+
+These are changes from the orinigle 
+
